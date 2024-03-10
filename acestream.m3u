@@ -8,5 +8,5 @@ http://135.125.75.175/play.php?movieId=932420
 #EXTINF:-1 group-title="Now Playing" tvg-id="Dune: P>
 http://135.125.75.175/play.php?movieId=693134
 
-#EXTINF:-1 group-title="Now Playing" tvg-id="Kung Fu>
-http://135.125.75.175:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&hlc=1&spv=0
+#EXTINF:-1 group-title="Dazn" tvg-id="Dazn 2>
+http://135.125.75.175:6878/ace/manifest.m3u8?infohash=b0eabe0fdd02fdd165896236765a9b753a2ff516
