@@ -1,0 +1,12 @@
+#EXTM3U
+#EXTINF:-1 group-title="Now Playing" tvg-id="Atrapad>
+http://135.125.75.175/play.php?movieId=1096197
+
+#EXTINF:-1 group-title="Now Playing" tvg-id="Código >
+http://135.125.75.175/play.php?movieId=932420
+
+#EXTINF:-1 group-title="Now Playing" tvg-id="Dune: P>
+http://135.125.75.175/play.php?movieId=693134
+
+#EXTINF:-1 group-title="Now Playing" tvg-id="Kung Fu>
+http://135.125.75.175:6878/ace/getstream?id=b0eabe0fdd02fdd165896236765a9b753a2ff516&hlc=1&spv=0
