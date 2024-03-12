@@ -1,8 +1,7 @@
 #EXTM3U x-tvg-url=""
 
 #EXTINF:1 group-title="Movistar" tvg-id="movistar/13tv" tvg-logo="" provider="Movistar" provider-logo="" provider-type="iptv",[Movistar] 13tv
-http://pakitotv.duckdns.org:1812/stream/movistar/13tv/master.m3u8?u=iker&p=d2e24d54dbf281eadafd2daa8c4c0a38a46cfd313909af80ac6a1f6d216a0642
-
+http://pakitotv.duckdns.org:1812/stream/movistar/mligadecampeones/master.m3u8?u=iker&p=d2e24d54dbf281eadafd2daa8c4c0a38a46cfd313909af80ac6a1f6d216a0642
 #EXTINF:2 group-title="Movistar" tvg-id="movistar/24horas" tvg-logo="" provider="Movistar" provider-logo="" provider-type="iptv",[Movistar] 24horas
 http://pakitotv.duckdns.org:1812/stream/movistar/24horas/master.m3u8?u=iker&p=d2e24d54dbf281eadafd2daa8c4c0a38a46cfd313909af80ac6a1f6d216a0642
 
