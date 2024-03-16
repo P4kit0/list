@@ -574,7 +574,7 @@ https://tv3cat-dash-movistarplus.emisiondof6.com/dash/tv3cator.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2017c7c8882f415cb391baa122fd72e0&key=f5338d7f01e3084f797c468c334f96c3
 https://etb-dash-movistarplus.emisiondof6.com/dash/etbor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARAGON" tvg-group="ESPAÃ‘A", AragÃ³n TV Int
+#EXTINF:-1 tvg-id="AragonTV.es",Aragón TV (720p) [Not 24/7]
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4" tvg-group="ESPAÃ‘A", M+ LaLiga 4
