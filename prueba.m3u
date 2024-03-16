@@ -146,11 +146,7 @@ https://tvup-live.secure.footprint.net/axnwhite6/axnwhite6.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b5227c110fc4af5b506e6a6c7791da1&key=fce863b6daf0a9190db85ecede2481f6
 https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ENERGY" tvg-group="ESPAÃ‘A", Energy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.movistarplus.es/"
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a14093af411c40d9924ee0d86bbc18b1&key=b9b402ff108bf3e4a4deebac31c435e5
-https://energy-dash-movistarplus.emisiondof6.com/dash/energyor.isml/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST" tvg-group="ESPAÃ‘A", La Resistencia
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -164,10 +160,6 @@ https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/mani
 #KODIPROP:inputstream.adaptive.license_key=5032cdcff452f508b44fe895808b9cee:51c7c5b35ad30d4d8552143f19fd5e11
 https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
 
-#EXTINF:-1 tvg-id="Neox" tvg-logo="https://i.imgur.com/ORaIVdg.png" group-title="SPANISH SERIES",Neox
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zanR0NIiWCKnd/2c5eyDJw","k":"DAy93v+ZcgXR6T41N0auVw"},{"kty":"oct","kid":"hvlrbV19U5msHgOWhInalw","k":"pgH4PoymlQBFD2tztkinBg"},{"kty":"oct","kid":"TvpR/4iOWjyP9asAXZ2mrg","k":"C4XX3cCxnAaJX5BVM8Zn7w"}]}
-https://tvup-live.secure.footprint.net/neox6/neox6.mpd
 
 
 #EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://i.imgur.com/iCC4kDT.png" group-title="SPANISH SERIES",Atreseries
@@ -423,23 +415,12 @@ https://decasa-dash-movistarplus.emisiondof6.com/dash/decasaor.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4074ed3a5d3541d68b9a06a391c519ea&key=0215a508f3925cb98ab7be64f7e55aba
 https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DIVINI" tvg-group="ESPAÃ‘A", Divinity
+#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://i.imgur.com/g8XD1CM.png" group-title="SPANISH SERIES",Divinity
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.movistarplus.es/"
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c9552e0515b247779d2c204dc12f46b5&key=af2b942b509c264db4b9b5c9e2235c32
-https://divinity-dash-movistarplus.emisiondof6.com/dash/divinityor.isml/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
+https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NOVA" tvg-group="ESPAÃ‘A", Nova
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.movistarplus.es/"
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2ce8c3b4d19b432c94499ca91dc9d997&key=232a0f5356e0bb2672a3043e08f18ae8
-https://nova-dash-movistarplus.emisiondof6.com/dash/novaor.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEGA" tvg-group="ESPAÃ‘A", Mega
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.movistarplus.es/"
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b48fd17bd87b4cc697c65866e7314ed6&key=eb61b9dd29ce08d77db11e325c06ef07
-https://mega-dash-movistarplus.emisiondof6.com/dash/megaor.isml/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" tvg-group="ESPAÃ‘A", BE MAD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -811,7 +792,3 @@ https://tvup-live.secure2.footprint.net/mega6/mega6.mpd
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wrdz9cCVWeWK1yyQFKVMdg","k":"MqcK7LoIGRdNnUxC2+rTHw"},{"kty":"oct","kid":"RC3OaBzyVp+abdX9g8oH0Q","k":"a8eIY6TONiKORSbwe7N/fQ"},{"kty":"oct","kid":"UDYY+Cl4Xe+8SkDaHDUMjQ","k":"78RbZPmjrwqVWPq6rF+vow"}]}
 https://tvup-live.secure2.footprint.net/nova6/nova6.mpd
 
-#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://i.imgur.com/g8XD1CM.png" group-title="SPANISH SERIES",Divinity
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
-https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
