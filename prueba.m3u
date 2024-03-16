@@ -680,7 +680,7 @@ https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidepor.isml/manife
 #EXTM3U
 #EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://i.imgur.com/TgkGtsr.png" group-title="SPANISH MOVIES",Be Mad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d7
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3743a0f5f8633002477dbd91510d7794&key=53d6e6c17b95cab5109a6fea5fd077d7
 https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
 
 #EXTINF:-1 tvg-id="BOM Cine" tvg-logo="https://i.imgur.com/o2KW3D3.png" group-title="SPANISH MOVIES",BOM Cine
