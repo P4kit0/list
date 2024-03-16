@@ -417,18 +417,6 @@ https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
 
 
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BEMAD" tvg-group="ESPAÃ‘A", BE MAD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f47176ff659b4dff9fa6c03febe3293b&key=d87db783c6e1d3627f98e0f6fbb2795e
-https://bemad-dash-movistarplus.emisiondof6.com/dash/bemad.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BOMCIN" tvg-group="ESPAÃ‘A", BOM Cine
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7b1f8b5020e544c4a29fbd669d03ab51&key=6580aaa1978a4897df78ae23225c506c
-https://bomcine-dash-movistarplus.emisiondof6.com/dash/bomcine.isml/manifest.mpd
-
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HORSE" tvg-group="ESPAÃ‘A", Horse TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
