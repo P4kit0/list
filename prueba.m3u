@@ -338,17 +338,18 @@ https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=413b3adb78dd4684a7866819786b8836&key=92d6e5cfbe02fef2e09e27617e3b9403
 https://formula1-dash-movistarplus.emisiondof6.com/dash/formula1.isml/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M1SD" tvg-group="ESPAÃ‘A", DAZN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.movistarplus.es/"
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dazn1.json
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-037/stream.mpd
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.imgur.com/7Dmhbfo.png" group-title="SPANISH SPORTS",DAZN 1 España
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD" tvg-group="ESPAÃ‘A", DAZN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=Referer="https://ver.movistarplus.es/"
 #KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dazn2.json
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-038/stream.mpd
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
 
 #EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP" tvg-group="ESPAÃ‘A", Eurosport 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -765,19 +766,14 @@ https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd
 #KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.imgur.com/7Dmhbfo.png" group-title="SPANISH SPORTS",DAZN 1 España
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
+
 
 #EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://i.imgur.com/dzjiCMu.png" group-title="SPANISH SPORTS",DAZN 2 España
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
+
 
 #EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://i.imgur.com/ErkrFiU.png" group-title="SPANISH NEWS",24 Horas
 #KODIPROP:inputstream=inputstream.adaptive
