@@ -1,9 +1,105 @@
 #EXTM3U
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="La 1" tvg-name="La 1" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3ALogo_TVE-1.svg&psig=AOvVaw278uHFmZdLr7kZkzj4C3-f&ust=1710682156592000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIi04ePx-IQDFQAAAAAdAAAAABAE" group-title="NACIONALES",LA 1 HD
-https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
-#KODIPROP:inputstream=inputstream.adaptive
+#EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://i.imgur.com/TgkGtsr.png" group-title="SPANISH MOVIES",Be Mad
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a3abc44525eef3b0a7af9138a9dbe34a:7740f8ae4223ce5ba293028f7f78f1c1
-#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_key=3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d7
+https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
 
+#EXTINF:-1 tvg-id="BOM Cine" tvg-logo="https://i.imgur.com/o2KW3D3.png" group-title="SPANISH MOVIES",BOM Cine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac9b27e3ad295bdd734c7e39ac11c88:be3c7d023415988972512ccba3f14fe4
+https://cache3.zapitv.com/live/eds_c2/bom/dash_live_enc/bom.mpd
+
+#EXTINF:-1 tvg-id="Somos" tvg-logo="https://i.imgur.com/LdoOfdE.png" group-title="SPANISH MOVIES", Somos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a8727d4973b18f61b29ac751b8a7522:10a11fe6ef837a5851cc6eeea7c08dc2
+https://cache3.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd
+
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://i.imgur.com/fTNM147.png" group-title="SPANISH SPORTS",DAZN F1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-016/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.imgur.com/Kgp0sGK.png" group-title="SPANISH SPORTS",DAZN LaLiga
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
+
+#EXTINF:-1 tvg-id="LaLiga SmartBank" tvg-logo="https://i.imgur.com/eRifdV6.png" group-title="SPANISH SPORTS",LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-040/stream.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.imgur.com/kL78TKb.png" group-title="SPANISH SPORTS",Eurosport 1 España
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd
+
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.imgur.com/eVrjvVo.png" group-title="SPANISH SPORTS",Eurosport 2 España
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd
+
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://i.imgur.com/rBW6ZzT.png" group-title="SPANISH SPORTS",Teledeporte
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
+https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.imgur.com/7Dmhbfo.png" group-title="SPANISH SPORTS",DAZN 1 España
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://i.imgur.com/dzjiCMu.png" group-title="SPANISH SPORTS",DAZN 2 España
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
+
+#EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://i.imgur.com/ErkrFiU.png" group-title="SPANISH NEWS",24 Horas
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
+
+#EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://i.imgur.com/iCC4kDT.png" group-title="SPANISH SERIES",Atreseries
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f9f8aec731ad9b6da84e72df2b318fa:8581c19cf83e9b0a872484377ea8c162
+https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd
+
+#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="https://i.imgur.com/N2uXKHp.png" group-title="SPANISH SERIES",Factoría de Ficción
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5032cdcff452f508b44fe895808b9cee:51c7c5b35ad30d4d8552143f19fd5e11
+https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
+
+#EXTINF:-1 tvg-id="Neox" tvg-logo="https://i.imgur.com/ORaIVdg.png" group-title="SPANISH SERIES",Neox
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zanR0NIiWCKnd/2c5eyDJw","k":"DAy93v+ZcgXR6T41N0auVw"},{"kty":"oct","kid":"hvlrbV19U5msHgOWhInalw","k":"pgH4PoymlQBFD2tztkinBg"},{"kty":"oct","kid":"TvpR/4iOWjyP9asAXZ2mrg","k":"C4XX3cCxnAaJX5BVM8Zn7w"}]}
+https://tvup-live.secure.footprint.net/neox6/neox6.mpd
+
+#EXTINF:-1 tvg-id="Energy" tvg-logo="https://i.imgur.com/k9r8IoX.png" group-title="SPANISH SERIES",Energy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4a9dbf7992b2f2de807c30928a14eba6:48b9e3073b6c646ef9bfcfa307492e10
+https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
+
+#EXTINF:-1 tvg-id="Mega" tvg-logo="https://i.imgur.com/nVg5XAt.png" group-title="SPANISH SERIES",Mega
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yUTRFbc5Wc2kHzMGaph3uA","k":"97yGTG06pv+SUl1/7Z7ItA"},{"kty":"oct","kid":"AQDd8vXrVrudEVU68GaSAw","k":"JqIlkSWD1zDjV5Gr/lE3kA"}]}
+https://tvup-live.secure2.footprint.net/mega6/mega6.mpd
+
+#EXTINF:-1 tvg-id="Nova" tvg-logo="https://i.imgur.com/Yvf6SVD.png" group-title="SPANISH SERIES",Nova
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wrdz9cCVWeWK1yyQFKVMdg","k":"MqcK7LoIGRdNnUxC2+rTHw"},{"kty":"oct","kid":"RC3OaBzyVp+abdX9g8oH0Q","k":"a8eIY6TONiKORSbwe7N/fQ"},{"kty":"oct","kid":"UDYY+Cl4Xe+8SkDaHDUMjQ","k":"78RbZPmjrwqVWPq6rF+vow"}]}
+https://tvup-live.secure2.footprint.net/nova6/nova6.mpd
+
+#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://i.imgur.com/g8XD1CM.png" group-title="SPANISH SERIES",Divinity
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
+https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
