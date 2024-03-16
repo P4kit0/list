@@ -10,7 +10,7 @@ https://ott.zapitv.com/live/eds_c2/la1_4k/dash_live_enc/la1_4k.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ecd7ee75e0e88f267ace6bd7d9d70d83&key=eb196d2b2dc28418f465532c5d1182c0
 https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 
-#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FAntena_3&psig=AOvVaw2DLD1DKpY4-2KPwuwW898m&ust=1710700389599000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCODGmNq1-YQDFQAAAAAdAAAAABAM" tvg-group="ESPAÃ‘A", Antena 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-group="ESPAÃ‘A", Antena 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8237067f4b584be5a005907d0f2f85d8&key=667a1671bdd50ab62e28ea8bb3e54bce
 http://vfpc.gb.vodafone.es/sdash/LIVE$CUP002/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
