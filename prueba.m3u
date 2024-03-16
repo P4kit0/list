@@ -751,11 +751,6 @@ https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.m
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
 
 
-#EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://i.imgur.com/ErkrFiU.png" group-title="SPANISH NEWS",24 Horas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-
 #EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://i.imgur.com/iCC4kDT.png" group-title="SPANISH SERIES",Atreseries
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f9f8aec731ad9b6da84e72df2b318fa:8581c19cf83e9b0a872484377ea8c162
