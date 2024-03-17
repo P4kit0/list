@@ -760,9 +760,7 @@ https://tvup-live.secure.footprint.net/neox6/neox6.mpd
 https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
 
 #EXTINF:-1 tvg-id="Mega" tvg-logo="https://i.imgur.com/nVg5XAt.png" group-title="SPANISH SERIES",Mega
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"yUTRFbc5Wc2kHzMGaph3uA","k":"97yGTG06pv+SUl1/7Z7ItA"},{"kty":"oct","kid":"AQDd8vXrVrudEVU68GaSAw","k":"JqIlkSWD1zDjV5Gr/lE3kA"}]}
-https://tvup-live.secure2.footprint.net/mega6/mega6.mpd
+https://o11.pakitotv.xyz/stream/zapitv/mega/master.m3u8?u=iker&p=d2e24d54dbf281eadafd2daa8c4c0a38a46cfd313909af80ac6a1f6d216a0642
 
 #EXTINF:-1 tvg-id="Nova" tvg-logo="https://i.imgur.com/Yvf6SVD.png" group-title="SPANISH SERIES",Nova
 #KODIPROP:inputstream.adaptive.license_type=clearkey
