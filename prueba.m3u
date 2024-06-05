@@ -1,769 +1,702 @@
-#EXTM3U list-name="Solo ESPAÃ‘A (VPN) ðŸ‡ªðŸ‡¸" list-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Spain_flag_icon.svg/768px-Spain_flag_icon.svg.png" author="Clic aqui para mas listas ðŸ˜" author-url="https://bit.ly/listas-app"
-
-#EXTINF:-1 tvg-id=“LA 1” group-title=“Movistar Plus+” ch-number=“1” tvg-logo=“http://estatico.emisiondof6.com/recorte/m-NEONEGR/canal/TVE 2”,LA 1
-#KODIPROP:inputstream.adaptive.stream_headers=X-TCDN-token=eyJhbGciOiJFUzI1NiIsImtpZCI6ImI1OGNhNGM0NGFiOTQ0Y2FiY2U4N2FjNGJmZmI4MDNkIiwidHlwIjoiYXQrand0In0.eyJuYmYiOjE3MTA2OTAyMzYsImV4cCI6MTcxMDc3NjYzNiwiaXNzIjoiaHR0cHM6Ly9pZHNlcnZlci5kb2Y2LmNvbSIsImF1ZCI6InRjZG4iLCJjbGllbnRfaWQiOiJtb3Zpc3RhcnBsdXMiLCJzdWIiOiI3WDdlODA4QjhXOGg4cTk0IiwiYXV0aF90aW1lIjoxNzEwNjkwMjM2LCJpZHAiOiJtb3Zpc3RhcisiLCJ1aWQiOiJzZ28vMlJVZis2dFZoSmhHQThvaTUwTVZoeWV0TnVUd3hDWnN1R0NwdDZNPSIsImFjYyI6IkI5NldYOWcyMGhVamJRUWllM1I2aldOSkJRMnI4WlBPSnUwMDN4ZjI5dlE9IiwianRpIjoiOTU4MDJFNDU5MEY2MTI1MDEwRDQ2QzZEMjE4RDFENzUiLCJpYXQiOjE3MTA2OTAyMzYsInNjb3BlIjoiY2RuIn0.XxCUJMe5ENSHD5dX6AEh3HRJYqficoMSadi5nN5uU19CzQg8IMq-NVtxRhNl_coguQOwCAYajUzWkn-cZU5-Hg
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62&key:81ebfc96640b0c8446c232f198b97dec
-https://cuatro-dash-movistarplus.emisiondof6.com/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/LA2" tvg-group="ESPAÃ‘A", LA 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ecd7ee75e0e88f267ace6bd7d9d70d83&key=eb196d2b2dc28418f465532c5d1182c0
-https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Antena_3_%282017%29.svg/1200px-Antena_3_%282017%29.svg.png" tvg-group="ESPAÃ‘A", Antena 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8237067f4b584be5a005907d0f2f85d8&key=667a1671bdd50ab62e28ea8bb3e54bce
-http://vfpc.gb.vodafone.es/sdash/LIVE$CUP002/2.mpd/Manifest?start=LIVE&end=END&device=DASH_STB_NGRSSP_LIVE_HD
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/C4" tvg-group="ESPAÃ‘A", Cuatro
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=257fafffad77ccb5b8224d8fac6c9d62&key=81ebfc96640b0c8446c232f198b97dec
-https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/T5" tvg-group="ESPAÃ‘A", Telecinco
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6e1dbacf4b932a11cd6cecb741def23d&key=0375536d6e512003972d1d6ea1f4d7c0
-https://ott.zapitv.com/live/eds_c2/telecinco/dash_live_enc/telecinco.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SEXTA" tvg-group="ESPAÃ‘A", La Sexta
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=239e5526ecb62d7b41c97641ea486549&key=93bfa21ee2211c271b7f0e1944a87818
-https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_enc/la_sexta.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV3" tvg-group="ESPAÃ‘A", M+ #0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cc6b7adcd1d74e37ad30a097328f28bf&key=b7e464cba8751a87f4005a0766f47c4a
-https://cero-dash-movistarplus.emisiondof6.com/dash/cero.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VAMOSD" tvg-group="ESPAÃ‘A", M+ #Vamos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b75bd2ed7a824043a48fd99ff16a0411&key=ff08d06983af562da4f17dada8661d0e
-https://vamos-dash-movistarplus.emisiondof6.com/dash/vamos.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CANSUR" tvg-group="ESPAÃ‘A", Canal Sur
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a1f2b5e88ce342f698cceef47c118e9b&key=3840185e2c4823137a5cdd246068439a
-https://tdtcsur-dash-movistarplus.emisiondof6.com/dash/tdtcsur.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TV3CAT" tvg-group="ESPAÃ‘A", TV3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8cf1d0c4d3fb4155812004fe79db1de4&key=a85875f6f69531ad920a2f576cba44c6
-https://tdttv3-dash-movistarplus.emisiondof6.com/dash/tdttv3.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVGAL" tvg-group="ESPAÃ‘A", TVG -TV Galicia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5756b6c51b12406e97f661e250109efa&key=de624a16c7af2f51e19fe1c093c5b333
-https://tdt1galicia-dash-movistarplus.emisiondof6.com/dash/tdt1galicia.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TELMAD" tvg-group="ESPAÃ‘A", Telemadrid
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=45f2b2fee13b46f587457e118a237b52&key=41fe236d8159b95c85028fcdf5b56f3a
-https://tdttelemadrid-dash-movistarplus.emisiondof6.com/dash/tdttelemadrid.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB1" tvg-group="ESPAÃ‘A", ETB 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=90010ddd0f874788967b18b48e53bbf7&key=25518651c222ae0174b5c8bc69894ef5
-https://tdt1etb-dash-movistarplus.emisiondof6.com/dash/tdt1etb.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV2" tvg-group="ESPAÃ‘A", M+ Series
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=09f31fd3fc584029b310e8e4891e194c&key=7aed71dceea44af72d944c3b57b009ae
-https://m1series-dash-movistarplus.emisiondof6.com/dash/m1series.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPSER" tvg-group="ESPAÃ‘A", M+ Series 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cfabda544cfb49449a31faa644f54791&key=8370eccd4d3a8009d583a0a555f54a1c
-https://m2series-dash-movistarplus.emisiondof6.com/dash/m2series.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/FOXGE" tvg-group="ESPAÃ‘A", Fox
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=45e41639a0b9453f9b260cb9d0326369&key=f0358c680ffc46904007de461388df28
-https://1fox-dash-movistarplus.emisiondof6.com/dash/1fox.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AXN" tvg-group="ESPAÃ‘A", AXN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5c67c13bc3c442b092e4906cb01b344f&key=d2fdc0f0dacbe6180a479526657d7a6f
-https://1axn-dash-movistarplus.emisiondof6.com/dash/1axn.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TNT" tvg-group="ESPAÃ‘A", TNT
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=cdcc9285b9b04270977a9278bd6b1168&key=fdc92cc2ba77e0c106f98a3143fa4f57
-https://tnt-dash-movistarplus.emisiondof6.com/dash/tnt.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PCM" tvg-group="ESPAÃ‘A", Comedy Central
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=18a265a968c34a0a87218ac68579cc78&key=77d5e68a667e5180c86cfe9e494bd54d
-https://comedycentral-dash-movistarplus.emisiondof6.com/dash/comedycentral.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CL13" tvg-group="ESPAÃ‘A", Calle 13
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=11d973f3e8d94bf49744dfe70c8586a7&key=897248d27630e5b35b37e5aa3a600c1d
-https://calle13-dash-movistarplus.emisiondof6.com/dash/calle13.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/COSMO" tvg-group="ESPAÃ‘A", COSMO
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440d251fb0a742c6ba118e1dd0d86ffe&key=7c9c577423ae0ee2bc672f10b0089969
-https://cosmo-dash-movistarplus.emisiondof6.com/dash/cosmo.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/AMC" tvg-group="ESPAÃ‘A", AMC
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=32497fbdddab5d788051b6b33fc969ea&key=10f06dd0ab1ae7c67e058beb4d84edd6
-https://tvup-live.secure.footprint.net/amc-hd/amc-hd.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/XTRM" tvg-group="ESPAÃ‘A", XTRM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d821dad4e62c4dc695e1ff7819a3656e&key=bf7747c3f1cd4ad94f461e83d5c5888c
-https://xtrm-dash-movistarplus.emisiondof6.com/dash/xtrmor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SET" tvg-group="ESPAÃ‘A", AXN White
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9d0e1d32ace3532e81fb21be52949c56&key=9c262a291c60590bad7b1bf0bb54aaa3
-https://tvup-live.secure.footprint.net/axnwhite6/axnwhite6.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SCI-FI" tvg-group="ESPAÃ‘A", SYFY
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b5227c110fc4af5b506e6a6c7791da1&key=fce863b6daf0a9190db85ecede2481f6
-https://syfy-dash-movistarplus.emisiondof6.com/dash/syfy.isml/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/RESIST" tvg-group="ESPAÃ‘A", La Resistencia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=173d991915f24a11b67acd0c75914370&key=4ef8245f720013854f096cfffd8e1028
-https://resistencia-dash-movistarplus.emisiondof6.com/dash/resistencia.isml/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="https://i.imgur.com/N2uXKHp.png" group-title="SPANISH SERIES",Factoría de Ficción
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5032cdcff452f508b44fe895808b9cee:51c7c5b35ad30d4d8552143f19fd5e11
-https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
-
-
-
-#EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://i.imgur.com/iCC4kDT.png" group-title="SPANISH SERIES",Atreseries
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f9f8aec731ad9b6da84e72df2b318fa:8581c19cf83e9b0a872484377ea8c162
-https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd
-
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MSAGA" tvg-group="ESPAÃ‘A", M+ Sagas
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e3e0b0471630497eb81fc17f39a52218&key=4f44558664e3efc1811b7ce88beb597a
-https://1popup-dash-movistarplus.emisiondof6.com/dash/1popup.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MV1" tvg-group="ESPAÃ‘A", M+ Estrenos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9fb1f0638d3f4aeca37a3c7a6af2fef6&key=c8d3d2725ca7fb23b0654830aa322f2a
-https://estrenos-dash-movistarplus.emisiondof6.com/dash/estrenos.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MEST2" tvg-group="ESPAÃ‘A", M+ Estrenos 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=80f3cf94930a4bdf9ec6aa72e947c4ca&key=9c772b2117e7aa395b69e0e8a1200819
-https://mestreno2-dash-movistarplus.emisiondof6.com/dash/mestreno2.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MCLAS" tvg-group="ESPAÃ‘A", M+ ClÃ¡sicos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3167f5b1dca94bd39465b3a8a4295069&key=ec9c5d1a5435ccf47231105e7d31c0ba
-https://mclasicos-dash-movistarplus.emisiondof6.com/dash/mclasicos.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPACCI" tvg-group="ESPAÃ‘A", M+ AcciÃ³n
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=95af74d5fb594fd58b856a6d743cf77f&key=6494036d424881de28c0a7c9f3a1a19a
-https://accion-dash-movistarplus.emisiondof6.com/dash/accion.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOME" tvg-group="ESPAÃ‘A", M+ Comedia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ecbde3400f434d138cface02a8ab7cab&key=14bbd81ac0b8e30cdc1d7b6645e7579a
-https://comedia-dash-movistarplus.emisiondof6.com/dash/comedia.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPCOLE" tvg-group="ESPAÃ‘A", M+ Drama
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e0e8500c68184ce38f4295245ed31cfe&key=65b29f96ff077d4576654ec5be006cf9
-https://drama-dash-movistarplus.emisiondof6.com/dash/drama.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCESP" tvg-group="ESPAÃ‘A", M+ Cine EspaÃ±ol
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=aab0fcd931144e489fff46f80fa98098&key=d68713bd9786b2c2cf45b0478ee1e91f
-https://espanol-dash-movistarplus.emisiondof6.com/dash/espanol.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MONFIR" tvg-group="ESPAÃ‘A", M+ Fest
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c54300bb047b4c3e9b7542ff8b766cc7&key=587db84268065340af7ffa24b2184997
-https://mfest-dash-movistarplus.emisiondof6.com/dash/mfest.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TCM" tvg-group="ESPAÃ‘A", TCM
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=d239eaec11d44dc49e8f74af0e7330a7&key=b791a8447d030d7855f9e231886cb973
-https://tcm-dash-movistarplus.emisiondof6.com/dash/tcm.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HOLLYW" tvg-group="ESPAÃ‘A", Hollywood
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=860293580cdc418db2c1190b28b28889&key=dcc703e3cd2b9f67379c1165596cc598
-https://hollywood-dash-movistarplus.emisiondof6.com/dash/hollywood.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SUNDAN" tvg-group="ESPAÃ‘A", Sundance
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=00985a2a9f724f07b7d1d433d52bd216&key=5edfd7675466f31b87157ee1f69d5f10
-https://sundance-dash-movistarplus.emisiondof6.com/dash/sundance.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DARK" tvg-group="ESPAÃ‘A", DARK
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0baadc5a8a9f4d39808ff2dd3d369c7b&key=f70762238bb228c85b825459e7bed5a7
-https://dark-dash-movistarplus.emisiondof6.com/dash/darkor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PARCH" tvg-group="ESPAÃ‘A", Paramount Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82de8500b55a4a6aa18a7d97b525c93f&key=f1beb39f5d8fcf996e93287096eb0d25
-https://paramount-dash-movistarplus.emisiondof6.com/dash/paramountor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIGA" tvg-group="ESPAÃ‘A", M+ LaLiga
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=255f879157144cea9239b3c83dff5182&key=ee7984cc69a3152c31259fae16bf96c3
-https://mlaliga-dash-movistarplus.emisiondof6.com/dash/mlaliga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG1" tvg-group="ESPAÃ‘A", M+ LaLiga 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=56b4460854574065b4813bc9971c5179&key=cfe204a1146bbddbd54b3dc1848c1bfe
-https://1liga-dash-movistarplus.emisiondof6.com/dash/1liga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG2" tvg-group="ESPAÃ‘A", M+ LaLiga 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=be4a8104bef442e6a201ed00b261cf3c&key=b31c3762cb8e75b419bc5c71477c6ae8
-https://2liga-dash-movistarplus.emisiondof6.com/dash/2liga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG3" tvg-group="ESPAÃ‘A", M+ LaLiga 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3cb1d2f2c3e14fa98692110dd1604bbc&key=86a23888fba0582be2af7db26c01d945
-https://3liga-dash-movistarplus.emisiondof6.com/dash/3liga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAPIO" tvg-group="ESPAÃ‘A", M+ Liga de Campeones
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0d35a933a80c48bc98f17906ee83a56d&key=6461b4d5866add924b6cadc2cf59ce84
-https://mligacampeones-dash-movistarplus.emisiondof6.com/dash/mligacampeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP1" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3f7d6e024f5d4a43bb6fb49982642700&key=73efc8cee9d397eb768bde1bb3be0698
-https://01campeones-dash-movistarplus.emisiondof6.com/dash/01campeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP2" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=63bffc7258f94c3bbc4bc793adf77075&key=21a3dcfa0dd8d7388171acbaddb27037
-https://02campeones-dash-movistarplus.emisiondof6.com/dash/02campeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CPDEP" tvg-group="ESPAÃ‘A", M+ Deportes
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f18c39b70f8146d9a79e9dc0c329464d&key=646fd34f890a5cdb655bf9a97af06d47
-https://mdeportes-dash-movistarplus.emisiondof6.com/dash/mdeportes.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ARTHUR" tvg-group="ESPAÃ‘A", M+ Deportes 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=950ea23dbe3a4fde87568e21de5db567&key=ba466109f142e2ad4df606379a8e2aa0
-https://1multidep-dash-movistarplus.emisiondof6.com/dash/1multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP2" tvg-group="ESPAÃ‘A", M+ Deportes 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=13770bb91478480d8805a8d800a001f9&key=2b6236a5edc2894a972c0791932f3b4e
-https://2multidep-dash-movistarplus.emisiondof6.com/dash/2multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP3" tvg-group="ESPAÃ‘A", M+ Deportes 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f3bdb1e5ba384cfa86b7431d5b76af0a&key=31f48c32e7c204e080f3d8b1a9d5d17f
-https://3multidep-dash-movistarplus.emisiondof6.com/dash/3multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOLF%2B" tvg-group="ESPAÃ‘A", M+ Golf
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ff9f96b0f764421fb84df9e6babe45e8&key=5d95b15a3e821d733d09aa82faacfbdb
-https://mgolf-dash-movistarplus.emisiondof6.com/dash/mgolf.isml/manifest.mpd
-
-
-
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://i.imgur.com/7Dmhbfo.png" group-title="SPANISH SPORTS",DAZN 1 España
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-037/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/M2SD" tvg-group="ESPAÃ‘A", DAZN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://listasm3u.live/keys/dazn2.json
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-038/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP" tvg-group="ESPAÃ‘A", Eurosport 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=33218b521f0e447a935adc991554c66b&key=f36cd41061ee87411b41db9ec3ad8796
-https://eurosport1-dash-movistarplus.emisiondof6.com/dash/eurosport1.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ESP2" tvg-group="ESPAÃ‘A", Eurosport 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=16fe5ae7946b4197b2411c9fff61d228&key=66446cc9b6b9c6943c6b09fabef57bf1
-https://eurosport2-dash-movistarplus.emisiondof6.com/dash/eurosport2.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/GOL" tvg-group="ESPAÃ‘A", GOL
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=822ab739e0204f6b86f0dda852752b7d&key=5735a3f767c844b2ff4128d7788379a4
-https://goltv-dash-movistarplus.emisiondof6.com/dash/goltv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TDEP" tvg-group="ESPAÃ‘A", Teledeporte
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82fce7e54aba4ba5a08bf4a3c2abc744&key=20f57ed82917d9538d0192314e61ca7b
-https://teledeporte-dash-movistarplus.emisiondof6.com/dash/teledeporte.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGEO" tvg-group="ESPAÃ‘A", National Geographic
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e39d52703f1b4e9cb5f34a0eb56a3478&key=e839f4872457b1afcd55f388ceaeac7a
-https://geonat-dash-movistarplus.emisiondof6.com/dash/geonat.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NATGW" tvg-group="ESPAÃ‘A", Nat Geo Wild
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=bf2c80cf84354ed9aa04d1fdc66b1757&key=085ae5451f91d892e8e9406dd951e968
-https://wildnatgeo-dash-movistarplus.emisiondof6.com/dash/wildnatgeo.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HIST" tvg-group="ESPAÃ‘A", Historia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=8fd058ba1dab4425aed80f19ed28fa71&key=905d498800923549e1724d606e15da8f
-https://historia-dash-movistarplus.emisiondof6.com/dash/historia.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCR" tvg-group="ESPAÃ‘A", Discovery
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0e79a01f8f1f42588f79b3e07403ec84&key=3efefd3e15e5edba00be6673363b831c
-https://discovery-dash-movistarplus.emisiondof6.com/dash/discoveryor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA" tvg-group="ESPAÃ‘A", Odisea
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=7cda51c80be546c79fc1b3279a1cbb70&key=f15bd75ce1f4ef04ed42df4a83a4de5a
-https://odisea-dash-movistarplus.emisiondof6.com/dash/odiseaor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CYM" tvg-group="ESPAÃ‘A", Crimen + InvestigaciÃ³n
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=50d9708d9d814d919a2af457060dc55e&key=0358f48f4a93b5f999bfc58699ea15ec
-https://crimen-dash-movistarplus.emisiondof6.com/dash/crimenor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DECASA" tvg-group="ESPAÃ‘A", Canal Decasa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0a7489f77bde4f62867a3bad923e5498&key=452f2f349202408abb0936c92bd20b76
-https://decasa-dash-movistarplus.emisiondof6.com/dash/decasaor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CACOC" tvg-group="ESPAÃ‘A", Canal Cocina
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4074ed3a5d3541d68b9a06a391c519ea&key=0215a508f3925cb98ab7be64f7e55aba
-https://cocina-dash-movistarplus.emisiondof6.com/dash/cocina.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Divinity" tvg-logo="https://i.imgur.com/g8XD1CM.png" group-title="SPANISH SERIES",Divinity
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
-https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
-
-
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/HORSE" tvg-group="ESPAÃ‘A", Horse TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=846b9fb5262a47d594eff83b88f57361&key=615512bfb619cf8ff20dbff7600c5e1f
-https://horsetv-dash-movistarplus.emisiondof6.com/dash/horsetv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NAUTIC" tvg-group="ESPAÃ‘A", Nautical Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9c96a6a7cd1e45e989aa13e89da840fb&key=19ea867cfe2f6668040536ad2b233f20
-https://nauticalch-dash-movistarplus.emisiondof6.com/dash/nauticalch.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/UBEAT" tvg-group="ESPAÃ‘A", Ubeat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4a13ec19f39a47da96d677511edc0116&key=17711d7880e6a9d896579125d33427bf
-https://ubeat-dash-movistarplus.emisiondof6.com/dash/ubeat.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BABY" tvg-group="ESPAÃ‘A", Baby TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2a25461a05df426e8a5948844e773ef0&key=d5fdfe91ab048311db22684428ca5dc7
-https://babytv-dash-movistarplus.emisiondof6.com/dash/babytvor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PLAYDC" tvg-group="ESPAÃ‘A", Disney Junior
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=c6a165dec8d64c1b9e7c4f13641384db&key=0046d12ca01ab10af602dc401bd70fab
-https://jrdisney-dash-movistarplus.emisiondof6.com/dash/jrdisney.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/PANDA" tvg-group="ESPAÃ‘A", Canal Panda
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=5969b9b5d5094e95b285f6f10e47b85d&key=3bdd76952eb0339cc470f50e1067f5f7
-https://panda-dash-movistarplus.emisiondof6.com/dash/panda.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICKJR" tvg-group="ESPAÃ‘A", NICK JR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=42679b6034b04d3b9f69543f4e2c98cb&key=85855ce37613d1a83846d4a535f3752d
-https://jrnick-dash-movistarplus.emisiondof6.com/dash/jrnick.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NICK" tvg-group="ESPAÃ‘A", Nickelodeon
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=162cdd5d692648ce8c1e6328d1c68ec7&key=1df5a6f6188dd9be7c86f05c9501e088
-https://nickelodeon-dash-movistarplus.emisiondof6.com/dash/nickelodeon.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DWSP" tvg-group="ESPAÃ‘A", Dreamworks
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=4c069fd82dbe4ac98aa7479322c55f03&key=a7298938f60688f3575ab9b41da57707
-https://dreamworks-dash-movistarplus.emisiondof6.com/dash/dreamworks.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DCH" tvg-group="ESPAÃ‘A", Disney Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=067527b8b0d9417eab5df8b2c44cce93&key=dcb33c1b9c6b8964650e08c33b909074
-https://disneychannel-dash-movistarplus.emisiondof6.com/dash/disneychannel.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/BOING" tvg-group="ESPAÃ‘A", Boing
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=38132dfbd1eb40738d9a474f7e0de4e3&key=2460d0660fe5e678f2158253411a6f35
-https://boing-dash-movistarplus.emisiondof6.com/dash/boingor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CLANTV" tvg-group="ESPAÃ‘A", Clan TVE
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=e2c26542852c4333aec68e83844f3bb1&key=e6fe84029e6e2e0e2038cefe1b5daa85
-https://clan-dash-movistarplus.emisiondof6.com/dash/clan.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOMOS" tvg-group="ESPAÃ‘A", Somos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=de7667d3af3440bbb359a86f7aa2151b&key=4819c2c561a918c798958efb8828d3d5
-https://somos-dash-movistarplus.emisiondof6.com/dash/somosor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/VH1" tvg-group="ESPAÃ‘A", MTV 00s
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=f9bdeacdf1f04253afbadc6c018029c5&key=e66bb689e3b7eef63ae3476952a718de
-https://vh1-dash-movistarplus.emisiondof6.com/dash/vh1or.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MTV" tvg-group="ESPAÃ‘A", MTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0c692de2478e4b778597781d0fce1435&key=1a1e4760aa222f762222a853e18726c7
-https://mtv-dash-movistarplus.emisiondof6.com/dash/mtvor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/SOLMUS" tvg-group="ESPAÃ‘A", Sol MÃºsica
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6cfa89d8fa8c4ae39ff6bd74f23a9234&key=1bcbffdb91b5d91bd46c6cac1bb23950
-https://solmusica-dash-movistarplus.emisiondof6.com/dash/solmusicaor.isml/manifest.mpd
-
-
-#EXTINF:-1 tvg-id="24 Horas" tvg-logo="https://i.imgur.com/ErkrFiU.png" group-title="SPANISH NEWS",24 Horas
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_720.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/INTECO" tvg-group="ESPAÃ‘A", El Toro TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0d43fb49639b4ac3a53251848bceef3c&key=4b70c8291cecaad4350882d1a64aea96
-https://eltorotv-dash-movistarplus.emisiondof6.com/dash/eltorotv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/NEGOTV" tvg-group="ESPAÃ‘A", Negocios TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=fbb8fb3d49c04cb1afb773e19461b6de&key=273f6b64e7aae3232087743bcbbb7835
-https://negociostv-dash-movistarplus.emisiondof6.com/dash/negociostv.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ANTV" tvg-group="ESPAÃ‘A", Canal Sur AndalucÃ­a
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=23994c0ce4914a38a04e1edde8463d65&key=6958cd82ff263c2785d84af2d3a2a339
-https://csur-dash-movistarplus.emisiondof6.com/dash/csuror.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVG" tvg-group="ESPAÃ‘A", TVG Europa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=dbb416e86940485fb2005ec77959e2d6&key=d4b65ecd39a17d2d21c18e970196b839
-https://galicia-dash-movistarplus.emisiondof6.com/dash/galiciaor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/EXTREM" tvg-group="ESPAÃ‘A", Canal Extremadura Sat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=6836ea7cd3a74287a89dbe6a67894b67&key=03438109843ce8e201852676aaca62bd
-https://extremadura-dash-movistarplus.emisiondof6.com/dash/extremaduraor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/TVC" tvg-group="ESPAÃ‘A", TV3 Cat
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3a6b47b2e2a24ecb8f9cdf15092c7ca1&key=9e6fe0f1ab493cb10d6bdf0f0677ffda
-https://tv3cat-dash-movistarplus.emisiondof6.com/dash/tv3cator.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ETB" tvg-group="ESPAÃ‘A", EITB Basque
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2017c7c8882f415cb391baa122fd72e0&key=f5338d7f01e3084f797c468c334f96c3
-https://etb-dash-movistarplus.emisiondof6.com/dash/etbor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="AragonTV.es",Aragón TV (720p) [Not 24/7]
-https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG4" tvg-group="ESPAÃ‘A", M+ LaLiga 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1b2b964968f740ff81be30add6cedbcd&key=4caaec509e86bbdc667a3d1ab08616ec
-https://4liga-dash-movistarplus.emisiondof6.com/dash/4liga.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MLIG5" tvg-group="ESPAÃ‘A", M+ LaLiga 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=1aaf44a637af4da1957bb0962bcfd506&key=1765a7a2dcb247583014913d6c9c9608
-https://5liga-dash-movistarplus.emisiondof6.com/dash/5ligaor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN3" tvg-group="ESPAÃ‘A", DAZN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b4641842b5824390a7fe8d4ec781031d&key=cd156815ef05dcc9fcc3626e7d52db79
-https://dazn3-dash-movistarplus.emisiondof6.com/dash/dazn3.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.imgur.com/Kgp0sGK.png" group-title="SPANISH SPORTS",DAZN LaLiga
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/DAZN4" tvg-group="ESPAÃ‘A", DAZN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=436c2164392e460dae41420f53f9f396&key=8e0ea1289135355f0aef59266bd0070e
-https://dazn4-dash-movistarplus.emisiondof6.com/dash/dazn4.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP3" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=68cdb7d1cad64977a5abd94a214b3e31&key=1b227005d4c3efd148780296bf4d75fe
-https://03campeones-dash-movistarplus.emisiondof6.com/dash/03campeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP4" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=02ea7dfe72d049e89c8f8e1d79aebfb8&key=758b9b273b17c9a9407410ab03780eb3
-https://04campeones-dash-movistarplus.emisiondof6.com/dash/04campeones.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP5" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a880681bf75f455294ad32b1177b1d50&key=30cd45ad64a375dbc0abe729aaf4ed09
-https://05campeones-dash-movistarplus.emisiondof6.com/dash/05campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP6" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2510794e9fac4719ba5fdcfd40bb2bd8&key=ea50b2fb9edd318eb88c640f98d0c478
-https://06campeones-dash-movistarplus.emisiondof6.com/dash/06campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP7" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 7
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=b0bf4c0bff6d4ea9ad5ea72a6d4dc9ee&key=90935c2f1bb4b608e27157eaed9e30df
-https://07campeones-dash-movistarplus.emisiondof6.com/dash/07campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP8" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 8
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2e1efda12a6c4ce1a0e54d4dbd45affc&key=d512c2291ea628b12ef9e222abf3adfb
-https://08campeones-dash-movistarplus.emisiondof6.com/dash/08campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP9" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=ddb0f615e0274f049fb0ccc8bae93f3b&key=16a739053f0689b337a505d17e9b33ba
-https://09campeones-dash-movistarplus.emisiondof6.com/dash/09campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP10" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 10
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=de22428cd02c427197e2afca61051615&key=220ea6b2e765f54e28fbd47445049659
-https://10campeones-dash-movistarplus.emisiondof6.com/dash/10campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP11" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 11
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=a3e272c1143a4c67811cc49e7a2408e2&key=54ce61965bcb66652ca87d1f4a8f2d8c
-https://11campeones-dash-movistarplus.emisiondof6.com/dash/11campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/CHAP12" tvg-group="ESPAÃ‘A", M+ Liga de Campeones 12
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=40881bea8d274d948e12806bff0d4b1e&key=2c5070dfbe12f3879f0577c4eab13e56
-https://12campeones-dash-movistarplus.emisiondof6.com/dash/12campeonesor.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/USOP11" tvg-group="ESPAÃ‘A", M+ Deportes 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=9aa45540f9a44a9782ed5d09ecaf25f9&key=dae69d47171bf1247220a1ea1e97385e
-https://4multidep-dash-movistarplus.emisiondof6.com/dash/4multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI8" tvg-group="ESPAÃ‘A", M+ Deportes 5
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2fe1eb28667e4fc396f1532f3abd6a37&key=1f2daf34eed9b667e702ce16baece0c7
-https://5multidep-dash-movistarplus.emisiondof6.com/dash/5multidep.isml/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/MULTI6" tvg-group="ESPAÃ‘A", M+ Deportes 6
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=0b460369baa24719b2bdcfc0a4bd978a&key=2189232c870323e05eee0c84bf02082a
-https://6multidep-dash-movistarplus.emisiondof6.com/dash/6multidepor.isml/manifest.mpd
-
-
-
-
 #EXTM3U
-#EXTINF:-1 tvg-id="Be Mad" tvg-logo="https://i.imgur.com/TgkGtsr.png" group-title="SPANISH MOVIES",Be Mad
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=3743a0f5f8633002477dbd91510d7794&key=53d6e6c17b95cab5109a6fea5fd077d7
-https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
 
-#EXTINF:-1 tvg-id="BOM Cine" tvg-logo="https://i.imgur.com/o2KW3D3.png" group-title="SPANISH MOVIES",BOM Cine
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ac9b27e3ad295bdd734c7e39ac11c88:be3c7d023415988972512ccba3f14fe4
-https://cache3.zapitv.com/live/eds_c2/bom/dash_live_enc/bom.mpd
-
-#EXTINF:-1 tvg-id="Somos" tvg-logo="https://i.imgur.com/LdoOfdE.png" group-title="SPANISH MOVIES", Somos
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a8727d4973b18f61b29ac751b8a7522:10a11fe6ef837a5851cc6eeea7c08dc2
-https://cache3.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd
-
-#EXTINF:-1 group-title="DAZN / ELEVEN" tvg-id="DAZN / ELEVEN" tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg",Dazn F1 Espana
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=82f8e2a17dac44c0a18f660479349c59&key=1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ak-livedazn.akamaized.net/dashdrm/dazn-linear-016/stream.mpd
-
-
-#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://i.imgur.com/Kgp0sGK.png" group-title="SPANISH SPORTS",DAZN LaLiga
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-043/stream.mpd
-
-#EXTINF:-1 tvg-id="LaLiga SmartBank" tvg-logo="https://i.imgur.com/eRifdV6.png" group-title="SPANISH SPORTS",LaLiga TV Hypermotion
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dce-ak-livewwdazn.akamaized.net/dashdrm/dazn-linear-040/stream.mpd
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://i.imgur.com/kL78TKb.png" group-title="SPANISH SPORTS",Eurosport 1 España
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-031/stream.mpd
-
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://i.imgur.com/eVrjvVo.png" group-title="SPANISH SPORTS",Eurosport 2 España
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
-https://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-032/stream.mpd
-
-#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://i.imgur.com/rBW6ZzT.png" group-title="SPANISH SPORTS",Teledeporte
+#EXTINF:-1 group-title="Generalistas" ,La 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
 https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
 
+#EXTINF:-1 group-title="Generalistas" ,La 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecd7ee75e0e88f267ace6bd7d9d70d83:eb196d2b2dc28418f465532c5d1182c0
+https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
+
+#EXTINF:-1 group-title="Generalistas" , Antena 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bd31650876e34b919b0d9dbcda159c9a:ad302ffddac2628ec018340b6264f473
+https://mad02.cdn.avatel.tv/live/eds/antena3/MPEG-DASH_Scrambled_High/antena3.mpd
+
+#EXTINF:-1 group-title="Generalistas" , Cuatro
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=257fafffad77ccb5b8224d8fac6c9d62:81ebfc96640b0c8446c232f198b97dec
+https://ott.zapitv.com/live/eds_c2/cuatro/dash_live_enc/cuatro.mpd
+
+#EXTINF:-1 group-title="Generalistas" , Telecinco
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e1dbacf4b932a11cd6cecb741def23d:0375536d6e512003972d1d6ea1f4d7c0
+https://ott.zapitv.com/live/eds_c2/telecinco/dash_live_enc/telecinco.mpd
+
+#EXTINF:-1 group-title="Generalistas" , La Sexta
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=239e5526ecb62d7b41c97641ea486549:93bfa21ee2211c271b7f0e1944a87818
+https://ott.zapitv.com/live/eds_c2/la_sexta/dash_live_enc/la_sexta.mpd
 
 
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://i.imgur.com/dzjiCMu.png" group-title="SPANISH SPORTS",DAZN 2 España
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"GxRPc+b+/pHNBfhQ4rWJ0A", "kid":"gvjioX2sRMChj2YEeTScWQ" } ], "type":"temporary" }
+#EXTINF:-1 group-title="Estilo de vida" tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/IMG_20231215_205247.png" tvg-name="GH VIP 24h Plus" ,GH DÚO 24H Señal PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0abdd163b0a44ce3a81cb06b38396d9e:a8a2e2554a0e18d2245b520eba50cdd0
+https://directos.mediaset.es/oripremium05/live/premium05/mpd-cenc/mpd-cenc.isml/.mpd
 
+#EXTINF:-1 group-title="Cine y series" ,SELEKT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fcb7f1b335284464bdc6543dd13d4fe5:41a5d8561f138a7c488140fb8c108562
+https://mad02.cdn.avatel.tv/live/eds/selekt/MPEG-DASH_Scrambled_High/selekt.mpd
 
-#EXTINF:-1 tvg-id="Atreseries" tvg-logo="https://i.imgur.com/iCC4kDT.png" group-title="SPANISH SERIES",Atreseries
+#EXTINF:-1 group-title="Cine y series"  , Fox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc1e7bf2842e4bd698016c4352cb0829:3da5bf512ed3350a4d53b0fd6cc00fa9
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28FOXHD%29/manifest.mpd
+
+#EXTINF:-1  group-title="Cine y series" , AXN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17b4b5cdbb271e7f6d97e38a04a2d27f:75aef15c20e7a17c64b71d2f840a6f5d
+https://ott.zapitv.com/live/eds_c2/axn/dash_live_enc/axn.mpd
+
+#EXTINF:-1 group-title="Cine y series" , AXN Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f9e4be09926c262effa2b5381ae3553d:d630e04e0c5e3f98dc38840be1c1dd4c
+https://ott.zapitv.com/live/eds_c2/axn_white/dash_live_enc/axn_white.mpd
+
+#EXTINF:-1  group-title="Cine y series" ,AMC
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffec3dec40cb61a45e969c84977615ef:c6fbbe1e506a4323d3046b30731c9d52
+https://ott.zapitv.com/live/eds_c2/amc_hd/dash_live_enc/amc_hd.mpd
+
+#EXTINF:-1  group-title="Cine y series" ,Canal Hollywood
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=38b0a87ba1614db52f1520191282a0db:af101261419cdcf7c09b82592eac862a
+https://ott.zapitv.com/live/eds_c2/hollywood_hd/dash_live_enc/hollywood_hd.mpd
+
+#EXTINF:-1 group-title="Cine y series" , Warner TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=33947fe5bd6af392efd09f7431e1fa54:02cef33e07cb49b26b0e099ba7467e97
+https://ott.zapitv.com/live/eds_c2/tnt/dash_live_enc/tnt.mpd
+
+#EXTINF:-1 group-title="Cine y series" , Calle 13
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ae50bb56203f2f3875e3ee78efab1a5:f22429107ea7806f54902bb2926c8872
+https://ott.zapitv.com/live/eds_c2/calle_13/dash_live_enc/calle_13.mpd
+
+#EXTINF:-1 group-title="Cine y series" , XTRM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=563e6e1367e0c8c0f6643cf0ae92c4e7:7a84ece91b690c5b717eeffd58a55b04
+https://ott.zapitv.com/live/eds_c2/xtrm_hd/dash_live_enc/xtrm_hd.mpd
+
+#EXTINF:-1 group-title="Cine y series" , SyFy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=95ec1e26e80c38258a30101d06c8cbf7:0d0df5189256c0bf32c0cd0976bac5bd
+https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
+
+#EXTINF:-1 group-title="Cine y series" , Sundance TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7107df0ecf168438df3d5e35a06f5e8b:1541c20a7dc82b302ec9b97274910162
+https://ott.zapitv.com/live/eds_c2/sundance_hd/dash_live_enc/sundance_hd.mpd
+
+#EXTINF:-1 group-title="Cine y series" , DARK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee3899fcba09e6de20355394106ca745:d84b6489ff8e5aeecde84a659c0617b8
+https://cache3.zapitv.com/live/eds_c2/DARK_HD/dash_live_enc/DARK_HD.mpd
+
+#EXTINF:-1  group-title="Cine y series" tvg-logo="https://estatico.emisiondof6.com/recorte/m-NEONEGR/wpmos/SOMOS" , Somos
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a8727d4973b18f61b29ac751b8a7522:10a11fe6ef837a5851cc6eeea7c08dc2
+https://cache3.zapitv.com/live/eds_c2/somos/dash_live_enc/somos.mpd
+
+#EXTINF:-1 group-title="Cine y series",  Paramount Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=46cebb5906150f7e0aadc3a4d93d1a6c:757da1b0cdcf2c54c6c8b1560f272d33
+https://ott.zapitv.com/live/eds_c2/paramount_channel/dash_live_enc/paramount_channel.mpd
+
+#EXTINF:-1 group-title="Cine y series" , TCM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1ac0887faa9a185c93a2b989bff2e24b:22831d8c2d1133edf6b8db84087b5854
+https://ott.zapitv.com/live/eds_c2/tcm_moderno/dash_live_enc/tcm_moderno.mpd
+
+#EXTINF:-1  group-title="Cine y series" ,BE MAD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3743a0f5f8633002477dbd91510d7794:53d6e6c17b95cab5109a6fea5fd077d7
+https://ott.zapitv.com/live/eds_c2/bemad_hd/dash_live_enc/bemad_hd.mpd
+
+#EXTINF:-1  group-title="Cine y series" , Comedy Central
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d36bad49809245be8961000ae78c720d:d3ad885a7915498b6ebcfcce2189c902
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28PARAMOUNTCOMEDY%29/manifest.mpd
+
+#EXTINF:-1  group-title="Cine y series" , Cosmo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=440d251fb0a742c6ba118e1dd0d86ffe&key=7c9c577423ae0ee2bc672f10b0089969
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:75_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Cine y series" ,BOM Cine
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ac9b27e3ad295bdd734c7e39ac11c88:be3c7d023415988972512ccba3f14fe4
+https://cache3.zapitv.com/live/eds_c2/bom/dash_live_enc/bom.mpd
+
+#EXTINF:-1 group-title="Cine y series" ,Cine Feel Good
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b9e64ec5c7646998585db86a10f3aa3:78be574c36ce9529b40f96f50c9cc973
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28FEELGOOD%29/manifest.mpd
+
+#EXTINF:-1 group-title="Cine y series" ,Cines Verdi TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9097ecce336d42b4a45efb07a84c1d49:31468a4538fdc78062d64635626ddc3a
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28VERDI%29/manifest.mpd
+
+#EXTINF:-1 group-title="Cine y series"   tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/LaQueSeAvecina__1_-removebg-preview.png",LQSA 24h
+https://cdn7.lqsa.es:443/hls/2/stream.m3u8
+
+#EXTINF:-1 group-title="Estilo de vida"  tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/IMG_20230917_213537.png" ,Mitele PLUS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0abdd163b0a44ce3a81cb06b38396d9e:a8a2e2554a0e18d2245b520eba50cdd0
+https://directos.mediaset.es/oripremium04/live/premium04/mpd-cenc/mpd-cenc.isml/.mpd
+
+#EXTINF:-1  group-title="Noticias" ,TRECE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fce2ad7b5af340e31da7c559decdd4:5f92152dc862fdab5eff9abf0b8b6940
+https://ott.zapitv.com/live/eds_c2/TRECETV/dash_live_enc/TRECETV.mpd
+
+#EXTINF:-1  group-title="Cine y series" , Energy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7e4beb8a6ffd415fa67a2d4402117cb6:1919a0959b34a85b738047cdfa879975
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28ENERGY%29/manifest.mpd
+
+#EXTINF:-1 group-title="Cine y series",Factoría de Ficción
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb222923b77a4b1680ee1fe6b2dcdb50:cd92bc6af0c0aeca9b43c45c3578e894
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28FDF%29/manifest.mpd
+
+#EXTINF:-1 group-title="Cine y series" ,Neox
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f04510b6bc0f4a7f83661fcc0908040d:e194d6c7ed998932b1ffc27eff231145
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28NEOX%29/manifest.mpd
+
+#EXTINF:-1 group-title="Estilo de vida" ,Nova
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b6041f6751bd46efb727d27376fcb692:4862aa4cbae01f743cee1f5bc1b57ae6
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28NOVA%29/manifest.mpd
+
+#EXTINF:-1 group-title="Estilo de vida" ,Mega
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fedca9d905f24768889d4b79759977d8:eb06b9f13d536dfde729ebdc849da435
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28MEGA%29/manifest.mpd
+
+#EXTINF:-1  group-title="Cine y series" , Atreseries
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2f9f8aec731ad9b6da84e72df2b318fa:8581c19cf83e9b0a872484377ea8c162
 https://ott.zapitv.com/live/eds_c2/atreseries_hd/dash_live_enc/atreseries_hd.mpd
 
-#EXTINF:-1 tvg-id="Factoría de Ficción" tvg-logo="https://i.imgur.com/N2uXKHp.png" group-title="SPANISH SERIES",Factoría de Ficción
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5032cdcff452f508b44fe895808b9cee:51c7c5b35ad30d4d8552143f19fd5e11
-https://ott.zapitv.com/live/eds_c2/fdf/dash_live_enc/fdf.mpd
+#EXTINF:-1 group-title="Estilo de vida" ,Flooxer
+https://fast-channels.atresmedia.com/5c1285e47ed1a861f8125285/5c1285e47ed1a861f8125285.m3u8
 
-#EXTINF:-1 tvg-id="Neox" tvg-logo="https://i.imgur.com/ORaIVdg.png" group-title="SPANISH SERIES",Neox
+#EXTINF:-1 group-title="Cine y series" ,Clásicos atresplayer
+https://fast-channels.atresmedia.com/648ef12c2bfab0e4507e0d61/648ef12c2bfab0e4507e0d61.m3u8
+
+#EXTINF:-1 group-title="Cine y series" ,Multicine atresplayer
+https://fast-channels.atresmedia.com/648ef18c1756b0e41daf83cc/648ef18c1756b0e41daf83cc.m3u8
+
+#EXTINF:-1 group-title="Cine y series" ,Comedia atresplayer
+https://fast-channels.atresmedia.com/648ef23d2bfab0e4557e0d61/648ef23d2bfab0e4557e0d61.m3u8
+
+#EXTINF:-1 group-title="Documentales" ,Inquietos atresplayer
+https://fast-channels.atresmedia.com/648ef3162bfab0e4587e0d61/648ef3162bfab0e4587e0d61.m3u8
+
+#EXTINF:-1 group-title="Cine y series" ,ATRESplayer PREMIUM
+https://fast-channels.atresmedia.com/6107d2846584a82b1f0eb800/6107d2846584a82b1f0eb800.m3u8
+
+#EXTINF:-1 group-title="Fútbol" tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/Orange_logo.svg%20(1).png" tvg-name="M+ LaLiga TV" ,Orange TV Fútbol
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=850c1a430396ce4255f3902bf1f4e897:295b1db977f94dfbba012073901a019b
+http://live12-dash.cdns.cdn.orangetv.orange.es:80/6iEdIDu_6vxvIHGAd74CcQ/1707503575///76/cmaf/r12_mlaliga/dash_high.mpd
+
+#EXTINF:-1 group-title="Fútbol" tvg-logo="https://github.com/fifaivan/TV/blob/main/IMG_20230909_114055.png?raw=true" ,LaLiga TV Andorra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"qj3kUHKOUO281HqwOSAPbg","k":"SxsbjrdYUpX8bJrQVLrGRw"},{"kty":"oct","kid":"OITRjYctULWc6vA1MM3bzA","k":"RfWtZ1v02QVgQqkBIzAsDw"},{"kty":"oct","kid":"OJbBik/NVO+rr5sb2xgw9Q","k":"478TyNRjr15btWehw+oXJQ"}]}
+https://tvup-live.akamaized.net/laligatv/laligatv.mpd
+
+#EXTINF:-1 group-title="Fútbol" ,DAZN LaLiga
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+
+#EXTINF:-1 group-title="Fútbol"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/LaLiga_TV_Hypermotion_2023_Logo.svg/350px-LaLiga_TV_Hypermotion_2023_Logo.svg.png" ,LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+
+#EXTINF:-1 group-title="Fútbol" tvg-logo="https://github.com/fifaivan/TV/blob/main/IMG_20230909_114055.png?raw=true" ,LaLiga TV Andorra 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"/LAc69D6V3qeJxn+F4uazQ","k":"MsSJtnrENMkvqodrb8CP1g"},{"kty":"oct","kid":"FdmsHn5tVKajiGC6ojAEMw","k":"uhJYusaFn3Gm1C/bTwMDCg"},{"kty":"oct","kid":"GU/e/RhvXCS9OZ02Vl2oQw","k":"ucPYgxibV//aPEr0iT/1gw"}]}
+https://tvup-live.akamaized.net/laliga1/laliga1.mpd
+
+#EXTINF:-1 group-title="Fútbol" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" ,LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+
+#EXTINF:-1 group-title="Deportes", DAZN 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+
+#EXTINF:-1 group-title="Deportes", DAZN 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+
+#EXTINF:-1 group-title="Deportes", DAZN F1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+
+#EXTINF:-1 group-title="Deportes", Eurosport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
+https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
+
+#EXTINF:-1 group-title="Deportes", Eurosport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
+
+#EXTINF:-1 tvg-logo="https://image-service.goldbach.com/01lOtJONnQFGQPuccNoBQueklFI=/1920x0/filters:quality(90)/https://cdn.goldbach.com/uploads/production//5f574a8de2f9196327ad89f7/2021/02/sdf_logo_rgb_hoch_02.png" group-title="Deportes" tvg-name="SPORTDIGITAL FUSSBALL GER",Sportdigital Fussball
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-fs-live-dazn-cdn.dazn.com/dashdrm/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 group-title="Deportes", GOL PLAY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7412d06579ba4c9c8ecf35c381272570:ea2aa6a3cb2c6e9e2dde24f1a994aa01
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28GOLTV%29/manifest.mpd
+
+#EXTINF:-1 group-title="Deportes", Teledeporte
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3b8c495d349e45b0b153a78324813809:f619fd5c17fa0c9a82a54b045702c125
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28TELEDEPORTEHD%29/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/Rtve_Play.png" group-title="Deportes",RTVE Play
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve17_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/Rtve_Play.png" group-title="Deportes",RTVE Play 2
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve18_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/Rtve_Play.png" group-title="Deportes",RTVE Play 3
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve22_main_1080.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/Rtve_Play.png" group-title="Deportes",RTVE Play 4
+https://rtvelivestream.akamaized.net/rtvesec/oca/irtve19_main_1080.m3u8
+
+#EXTINF:-1 group-title="Deportes",LaLiga+
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28LIGASPORTS%29/manifest.mpd
+
+#EXTINF:-1 group-title="Fútbol",Real Madrid TV
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge2/smil:27_premium.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Fútbol",Betis TV
+https://streamer.zapitv.com/betis/index.mpd
+
+#EXTINF:-1 group-title="Fútbol",Sevilla FC Televisión
+https://streamer.zapitv.com/sevillafc/index.mpd
+
+#EXTINF:-1 group-title="Deportes" ,Iberalia TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"zanR0NIiWCKnd/2c5eyDJw","k":"DAy93v+ZcgXR6T41N0auVw"},{"kty":"oct","kid":"hvlrbV19U5msHgOWhInalw","k":"pgH4PoymlQBFD2tztkinBg"},{"kty":"oct","kid":"TvpR/4iOWjyP9asAXZ2mrg","k":"C4XX3cCxnAaJX5BVM8Zn7w"}]}
-https://tvup-live.secure.footprint.net/neox6/neox6.mpd
+#KODIPROP:inputstream.adaptive.license_key=3c91a4e9ccc6f6f253fc9d7c57850aa9:c88cd0613ffed9721c0616583cb917d8
+https://cache4.zapitv.com/live/eds_c2/iberalia/dash_live_enc/iberalia.mpd
 
-
-#EXTINF:-1 tvg-id="Energy" tvg-logo="https://i.imgur.com/k9r8IoX.png" group-title="SPANISH SERIES",Energy
+#EXTINF:-1 group-title="Deportes" tvg-name="Iberalia caza" ,Iberalia 100% Caza
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4a9dbf7992b2f2de807c30928a14eba6:48b9e3073b6c646ef9bfcfa307492e10
-https://ott.zapitv.com/live/eds_c2/energy/dash_live_enc/energy.mpd
+#KODIPROP:inputstream.adaptive.license_key=54be45ed0cc1524243461e2f420310d9:6d1386b01391d3d86f4debf5d9650fe7
+https://cache4.zapitv.com/live/eds_c2/iberalia_caza/dash_live_enc/iberalia_caza.mpd
 
-#EXTINF:-1 tvg-id="Mega" tvg-logo="https://i.imgur.com/nVg5XAt.png" group-title="SPANISH SERIES",Mega
-https://o11.pakitotv.xyz/stream/zapitv/mega/master.m3u8?u=iker&p=d2e24d54dbf281eadafd2daa8c4c0a38a46cfd313909af80ac6a1f6d216a0642
-
-#EXTINF:-1 tvg-id="Nova" tvg-logo="https://i.imgur.com/Yvf6SVD.png" group-title="SPANISH SERIES",Nova
+#EXTINF:-1 group-title="Deportes" tvg-name="Iberalia pesca" ,Iberalia 100% Pesca
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"wrdz9cCVWeWK1yyQFKVMdg","k":"MqcK7LoIGRdNnUxC2+rTHw"},{"kty":"oct","kid":"RC3OaBzyVp+abdX9g8oH0Q","k":"a8eIY6TONiKORSbwe7N/fQ"},{"kty":"oct","kid":"UDYY+Cl4Xe+8SkDaHDUMjQ","k":"78RbZPmjrwqVWPq6rF+vow"}]}
-https://tvup-live.secure2.footprint.net/nova6/nova6.mpd
+#KODIPROP:inputstream.adaptive.license_key=7ae3343806fda8a7bc27d38ab605a702:9a6a18d6877a1cfb037417be8ec3d7e6
+https://cache4.zapitv.com/live/eds_c2/iberalia_pesca/dash_live_enc/iberalia_pesca.mpd
 
+#EXTINF:-1 group-title="Deportes",Cazavisión
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4548cde183064e8e8e8e10d587cba7c7:ad8add4d0b6064aa41929f02ffda98ac
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28CAZAVISION%29/manifest.mpd
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/IMG_20231027_005748-removebg-preview.png" ,DBIKE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5e8b6d0fd7384e1d9988cd977b6409b7:ee9cdffb5f055bf203307398290e36a3
+https://ott.zapitv.com/live/eds_c2/DBIKE/dash_live_enc/DBIKE.mpd
+
+#EXTINF:-1 group-title="Estilo de vida" tvg-logo="https://nuestratv.es/wp-content/uploads/2022/04/dviaje.png", DViaje TV
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:224_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&h=108&tok=581957&media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Fxtm.png",Extreme Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8518dcac42e4cfeb420ae4b5a633e23:d87181be4661c2b67d518860e98438fd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:153_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Deportes",Moto ADV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba07f96a90c24d9cab511c6698c79010:e4f8e87e4056ac60c577ac06ac0b02fd
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:68_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Estilo de vida" ,Escapa TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1db8d673907b855cc52fa6c030aae18a:119e1f5bfe90e95d9b049cbf7dc66e45
+https://cache4.zapitv.com/live/eds_c2/escapatv/dash_live_enc/escapatv.mpd
+
+#EXTINF:-1 group-title="Deportes",OneToro TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bb35905eebfe4af086946c2b06e8b46a:e29b3d9f2d134ecf50aabef426cc543e
+https://livestream.onetoro.tv/Mundo_Toro_bb35905e_DRM/index.mpd
+
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://www.torole.tv/static/media/logo.edf9abdb69b97e74421a.png" , TorOlé
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c665d716114f89d3162d0337be3a66d4:fb5d7ee6db86bb87b0312861b8252582
+https://ott.zapitv.com/live/eds_c2/torole/dash_live_enc/torole.mpd
+
+#EXTINF:-1 group-title="Deportes",Surf Channel
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge4/smil:227_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Documentales", National Geographic
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=373000f26a1544c28e4c809fe24ac510:f9904d3fce15191ea902d5b9253f7c98
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28NATGEOHD%29/manifest.mpd
+
+#EXTINF:-1 group-title="Documentales", Nat Geo Wild
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d5f95d281df48d884dfdc0f23ab4d57:00eeca228b66e7e4ad9766d03d7e447b
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28NATGEOWILDSD%29/manifest.mpd
+
+#EXTINF:-1 group-title="Documentales", Historia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8913dddc7f301085c95e19bb94c005a8:ff60fbb41c2148e40c110237554ba652
+https://ott.zapitv.com/live/eds_c2/historia_hd/dash_live_enc/historia_hd.mpd
+
+#EXTINF:-1 group-title="Documentales", Discovery
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d37f084ced3f48cd8e7ab2250f26030d:7bae03ffb6f8a3539e8f93c0675e9c0a
+https://cache3.zapitv.com/live/eds_c2/discovery_channel_hd/dash_live_enc/discovery_channel_hd.mpd
+
+#EXTINF:-1 group-title="Documentales" tvg-logo="https://estatico.emisiondof6.com/recorte/m-DPBLAN/wpmos/ODISEA", Odisea
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7837ebd0bfe0116ce5de21c7bc6158b:dd2decde9c929bddbee7e47bb68cfdca
+https://cache4.zapitv.com/live/eds_c2/odisea_hd/dash_live_enc/odisea_hd.mpd
+
+#EXTINF:-1 group-title="Documentales", AMC Break
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15e412a4edd85313233969913072e0ff:5098eafaff2b246ee15e8f9aeb5403fb
+https://ott.zapitv.com/live/eds_c2/blaze/dash_live_enc/blaze.mpd
+
+#EXTINF:-1 group-title="Documentales",DMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9f78d175fe52487a8f090830fceb5ce8:5ba3474b7641254874004c243e4f8962
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28DISCOVERYMAX%29/manifest.mpd
+
+#EXTINF:-1 group-title="Documentales", AMC Crime
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e3048d6cc539b8a8b90d74992fb4e197:4e494e4d179abc3d3f10073b21ac8630
+https://cache4.zapitv.com/live/eds_c2/crimen/dash_live_enc/crimen.mpd
+
+#EXTINF:-1 group-title="Estilo de vida" , BuenViaje
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05eeec445f9bcfaef03c36965fce16d7:a3b3b1d585f5d0472336a17824d5da22
+https://ott.zapitv.com/live/eds_c2/BUENVIAJE/dash_live_enc/BUENVIAJE.mpd
+
+#EXTINF:-1 group-title="Estilo de vida" , Canal Cocina
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d1622e41b898458f889c697b0de3d1f0:7ad1ffd9308b35d961a6dae3c596fa57
+https://cache4.zapitv.com/live/eds_c2/cocina_hd/dash_live_enc/cocina_hd.mpd
+
+#EXTINF:-1 group-title="Estilo de vida",Decasa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0909d9aaca5c6e6a0f1a4ad8e4459f65:eef835f4d956c3e0a794879e7dbe5bdd
+https://cache4.zapitv.com/live/eds_c2/decasa_hd/dash_live_enc/decasa_hd.mpd
+
+#EXTINF:-1 group-title="Estilo de vida",DKISS
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a70651586506d7deea68016492dedb94:9b094387d596c64260754f07baeca18c
+https://ott.zapitv.com/live/eds_c2/dkiss_tv/dash_live_enc/dkiss_tv.mpd
+
+#EXTINF:-1 group-title="Estilo de vida", Divinity
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f1ee8e0222e67dcefdcb7ed95a6911f1:a4b37cde4618859146b0278f628997ee
+https://ott.zapitv.com/live/eds_c2/divinity/dash_live_enc/divinity.mpd
+
+#EXTINF:-1 group-title="Estilo de vida",TEN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55bf0a5d7c5eb6edecd240c0a31e0002:f8e186b29f5b2d162ac08446ee5aa68b
+https://ott.zapitv.com/live/eds_c2/ten/dash_live_enc/ten.mpd
+
+#EXTINF:-1 group-title="Estilo de vida",Telemundo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"ZsxwcPS9Tq28Q5vX7i-QPg","kid":"yws5Qc3GRYCv9YvrQzAXlQ"}],"type":"temporary"}
+#EXTVLCOPT:http-referrer=https://nowtv.express.com.ar/
+https://anbalancer.express.com.ar/live/c1eds/Telemundo_HD/SA_DASH_cipix/Telemundo_HD.mpd
+
+#EXTINF:-1 group-title="Estilo de vida", Enfamilia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa360c3c1de766745176da004f574f25:1b2fd687dd8cb38132cab84a1342f02d
+https://ott.zapitv.com/live/eds_c2/enfamilia/dash_live_enc/enfamilia.mpd
+
+#EXTINF:-1 group-title="Infantiles", Baby TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=77566a8724fa45ada73484b97d571d92:8092b173582ccae8dd45746c7c7405a5
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28BABYTV%29/manifest.mpd
+
+#EXTINF:-1 group-title="Infantiles",Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b26b09cbb41e4308962bbc382761f77d:cd403115115097d112c6dc1d1a9db51b
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28DISNEYJUNIOR%29/manifest.mpd
+
+#EXTINF:-1 group-title="Infantiles", Nick JR
+https://fibergy.cdn.masmediatv.es/SVoriginOperatorDistrib001/smil:261_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Infantiles", Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b383c9207bf4e178200126b3e67df30:e42f4fc0a0250da87a36c0372d908904
+https://mad01.cdn.avatel.tv/live/eds/nick/MPEG-DASH_Scrambled_High/nick.mpd
+
+#EXTINF:-1 group-title="Infantiles",Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9b33381cfc3b4ac889247f2f5d6305c7:20f9be0e5f34b5748e00c8af17d0a0bc
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28DREAMWORKS%29/manifest.mpd
+
+#EXTINF:-1 group-title="Infantiles",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fd6d5f77c1b24e02b597122664237142:688949286c9e9882c9c178ce8b09f1b4
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28DISNEY%29/manifest.mpd
+
+#EXTINF:-1 group-title="Infantiles", Boing
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=97c3e5f52bf51efe706c221930bc2b5b:b9473af4e52eaa9c9def9f8a5c54333c
+https://ott.zapitv.com/live/eds_c2/boing/dash_live_enc/boing.mpd
+
+#EXTINF:-1 group-title="Infantiles", Clan
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5daeec78aaec0ebb3353c5f7ebd16690:a56bd13e0cde801bb05c668b7578dfad
+https://ott.zapitv.com/live/eds_c2/clan_tv_hd/dash_live_enc/clan_tv_hd.mpd
+
+#EXTINF:-1 group-title="Infantiles" tvg-logo="https://raw.githubusercontent.com/fifaivan/TV/main/IMG_20231026_211424-removebg-preview.png",Kidz
+https://fast-channels.atresmedia.com/648c271d2bfab0e4177a0d61/648c271d2bfab0e4177a0d61.m3u8
+
+#EXTINF:-1 group-title="Musicales", MTV España
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10f86eedfa603133e035c4c64226dd6b:1678761258b8a16d5d5b9241bd647536
+https://ott.zapitv.com/live/eds_c2/mtv_espana/dash_live_enc/mtv_espana.mpd
+
+#EXTINF:-1 group-title="Musicales", MTV Hits
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2975a79fd099430a195212b04b4dd1e:7f8f21c0b12be72690510d92b893b5ac
+https://ott.zapitv.com/live/eds_c2/mtv_hits/dash_live_enc/mtv_hits.mpd
+
+#EXTINF:-1 group-title="Musicales", MTV 00s
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=999c8a5c8fdd7106a0c4b63cf9bc2223:d9a4c96e3cb098279b5db8f87621fd85
+https://ott.zapitv.com/live/eds_c2/vh1/dash_live_enc/vh1.mpd
+
+#EXTINF:-1 group-title="Musicales",Sol Música
+https://d2glyu450vvghm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21u4g5cjglv02/sm.m3u8
+
+#EXTINF:-1 group-title="Musicales",Mezzo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0ecfce9c56a46a42e4aba2dcf8037fed:3085cadf11d93aa24b88ba938ad61ccd
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/xfixnh8glr/out/v1/7bd3f3b9e3f94d15bc0a52878c067d60/cenc.mpd
+
+#EXTINF:-1 group-title="Musicales",Mezzo Live
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4708dc633793632adb2287ef37b2dc79:4d09e48cae8061ed7612c1c969804922
+https://ottb.live.cf.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/kaq34ndrio/out/v1/a8d9a45706e54ae49a922dc6d9dd151f/cenc.mpd
+
+#EXTINF:-1 group-title="Musicales",HIT TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f01fa331d43c49b699c20682f9b2406a:cca4d20bbeed10452bf8d6047152244c
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28HITTV%29/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/hits-hqm-logo.png" group-title="Musicales", HQM Hits
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:173_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/latin-hqm-logo.png" group-title="Musicales", HQM Latin
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:174_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/kids-hqm-logo.png" group-title="Musicales", HQM Kids
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:175_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/gym-hqm-logo.png" group-title="Musicales", HQM Gym
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:176_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/pop-hqm-logo.png" group-title="Musicales", HQM Pop
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:183_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/rock-hqm-logo.png" group-title="Musicales", HQM Rock
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:185_HD.smil/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://hqm.es/wp-content/uploads/remember-hqm-logo.png" group-title="Musicales", HQM Remember
+https://spa-ha-p001.cdn.masmediatv.es/SVoriginPacket03/smil:212_HD.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Noticias", 24 Horas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b5da8f127efd5a84c8d7d37fc828d44:244f6ea4a4fa570e3cc9c4817cef9a23
+https://ott.zapitv.com/live/eds_c2/24h_tve/dash_live_enc/24h_tve.mpd
+
+#EXTINF:-1 group-title="Noticias", Euronews
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01dde9aca5f148dcb0d2a057c8f2391a:690424fdac6f41b7aebe446bfbd7f99d
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28EURONEWS%29/manifest.mpd
+
+#EXTINF:-1 group-title="Noticias", CNN International Europe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=750bdc58e2ec4c12b1e8d0e536a277a0:8ed2d65a74823592f6ae859aeb96be39
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28CNNi%29/manifest.mpd
+
+#EXTINF:-1 group-title="Noticias", BBC World News Europe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01e5154a37eb472ebb4cb9bf68ae3c7d:98e36244c2efb7e7eb0fb7b95c69bd47
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28BBC%29/manifest.mpd
+
+#EXTINF:-1 group-title="Noticias", Al Jazeera English
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=321a3c47912c42868493317d1d0236c0:0171986d9b32dd618b6eda27e3aadd65
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28ALJAZEERA%29/manifest.mpd
+
+#EXTINF:-1 group-title="Noticias", France 24 (en Francais)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b0a5b94536547948f81c8c0e36df042:8051a12830194b600660fd10e944880b
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28FRANCE24%29/manifest.mpd
+
+#EXTINF:-1 group-title="Noticias", BLOOMBERG Europe TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dcba79a8f575459aa62e841ef1fc5f3f:7e10883859780fa0d202b32e04b159db
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28BLOOMBERG%29/manifest.mpd
+
+#EXTINF:-1 group-title="Noticias", TV5 Monde Europe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ee187b4692244300a3b3c470624fba01:8ac462272ded0b31920d34a1edba07c6
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28TV5%29/manifest.mpd
+
+#EXTINF:-1 group-title="Noticias", Deutsche W
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3f52be4b54da4566989801fe41b6068b:7177b042c7619c94a02081927c2703ce
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28DW%29/manifest.mpd
+
+#EXTINF:-1 group-title="Estilo de vida", Caracol TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d530d10258d949b2a9acbd2c4c06dfda:ec8ae60b5c18ee3d292a904734a50301
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28CARACOLTV%29/manifest.mpd
+
+#EXTINF:-1 group-title="Estilo de vida",CGTN Español
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:73_premium.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Noticias", El Toro TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=793c59ba1b09b8a1004da778dab0afcb:80ee84db32af59b25625081db47d247d
+https://ott.zapitv.com/live/eds_c2/intereconomia/dash_live_enc/intereconomia.mpd
+
+#EXTINF:-1 group-title="Autonómicos",La Otra
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=208049ec2e5bf2e7a5d3e17bbdf2f16f:0dde11377f475bfc203c941e82136360
+https://ott.zapitv.com/live/eds_c2/la_otra/dash_live_enc/la_otra.mpd
+
+#EXTINF:-1 group-title="Autonómicos", Canal Sur
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=56ddc01aebb4bd0bedb0762be969ff87:3eaa3e0e5c394792742f05d57baf6ccd
+https://ott.zapitv.com/live/eds_c2/canal_sur_hd/dash_live_enc/canal_sur_hd.mpd
+
+#EXTINF:-1 group-title="Autonómicos", CanalSur 2
+https://cdnlive.codev8.net/rtvalive/smil:channel22.smil/chunklist_b2200000.m3u8
+
+#EXTINF:-1 group-title="Autonómicos",Andalucía TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"sUW+rI87T+abIK9qduvwow","k":"4//ZAg7CHJ73+8gVPVAeew"},{"kty":"oct","kid":"6QM9LEf4SLiYifyn8fuJRw","k":"+S+M88Bp3U54WmqML5Uj1w"}]}
+https://bl01.cdn.avatel.tv/live/eds/andaluciatv/MPEG-DASH_Scrambled_Middle/andaluciatv.mpd
+
+#EXTINF:-1 group-title="Autonómicos", Canal Extremadura
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"MONUhmg2UnqLE7UaHdrh9g","k":"bba6DobHO6dMQgdC41Aw5g"},{"kty":"oct","kid":"FiEHjVt9WJuzW6yi4pI7+Q","k":"KhZYK08cAWggm4LQfHeUTQ"},{"kty":"oct","kid":"D0i278gmV0a1OTAQWm2oYw","k":"kur/jUxrOzvF9UEmmI5Jng"}]}
+https://tvup-live.akamaized.net/canalextremadura/canalextremadura.mpd
+
+#EXTINF:-1 group-title="Autonómicos",Aragón TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"WYTuEA7gX0iZqQZHZkn3bg","k":"PPix4Nx1iAkN1B6rqvZDhQ"},{"kty":"oct","kid":"IMQKUA5jUNqq3Yr+cZyGgQ","k":"UdzObm9Cl4P0JgVqgDub9A"},{"kty":"oct","kid":"JzptR7NDVuSdtLOTt8XGig","k":"nwmbXfCW9j0fJrxppIukEA"}]}
+https://tvup-live.akamaized.net/aragontvsd/aragontvsd.mpd
+
+#EXTINF:-1 tvg-name="TVG-TV Galicia" group-title="Autonómicos",TVG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8d47b106bc099480411379aa3135a985:45589a49327be7e2a0372f29cec240bf
+https://ott.zapitv.com/live/eds_c2/GALICIA/dash_live_enc/GALICIA.mpd
+
+#EXTINF:-1 group-title="Autonómicos",TVG 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"750PwOhvUCOgblNqDsw9eg","k":"yE7jdXjUEyIpnE0X/SrcDw"},{"kty":"oct","kid":"M9j9sIMqWTC5eIowBK1kgw","k":"oG0/7qfZDeiEK61e1HaISw"},{"kty":"oct","kid":"bzDjLiDmVtiLAVGx35B4jg","k":"5JyEI+Ze7JJhioijwIzexw"}]}
+https://tvup-live.akamaized.net/tvg2/tvg2.mpd
+
+#EXTINF:-1 group-title="Autonómicos",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c470ccf82ba9c9a91c2cb828a63cd155:e862da4dc95679234997f06707ecd021
+https://ott.zapitv.com/live/eds_c2/tv3_hd/dash_live_enc/tv3_hd.mpd
+
+#EXTINF:-1 group-title="Autonómicos",TV Canaria
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"y4JCikaeXDK2DkmL77Zngw","k":"g3AC29IHF29Qb/2kOyWlwQ"},{"kty":"oct","kid":"+itQ3yaKUhyN/c64ZD22HQ","k":"6WIMM8R5QzU32lnTzvCOew"},{"kty":"oct","kid":"BoVvRccCXTKrFPEDZUxV4w","k":"JV7/RTzL6cgbhRMH+S3EDg"}]}
+https://tvup-live.akamaized.net/tvcanaria/tvcanaria.mpd
+
+#EXTINF:-1 group-title="Autonómicos", CyL7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"EAVFwsfeXZebLvjo8h0nBQ","k":"vaJ89qkCsexl+yISLmIkPA"},{"kty":"oct","kid":"TNCNAPZEU6C42n7VJn8bkA","k":"/gwHUnWtlhK7hvAsJvIQZQ"},{"kty":"oct","kid":"fkLy+SpHXVOs/pwQ/Pk8kg","k":"+hQOxlRO6kvfXm6Y2oRouw"}]}
+https://tvup-live.akamaized.net/7cyltv/7cyltv.mpd
+
+#EXTINF:-1 group-title="Autonómicos", CyL8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RJ8I+S6wU3mmjucENhZoiA","k":"DtvC4o28kEiB0fkC1FyWZA"},{"kty":"oct","kid":"o/urz2bJVuieFQtbfZIZgA","k":"ND8HvxICpgi5OnrezEdf1w"},{"kty":"oct","kid":"hgVCkmlKU+uufPs/UewArA","k":"vtT7l8Q4BD5u72kI6GUs9w"}]}
+https://tvup-live.akamaized.net/8cyltv/8cyltv.mpd
+
+#EXTINF:-1 group-title="Autonómicos",7 TV Región Murcia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4867aa61887a973461c3f9f6add0ae4a:c347d26476708fc5ac2fecdcf2a5aabb
+https://ott.zapitv.com/live/eds_c2/7rm_hd/dash_live_enc/7rm_hd.mpd
+
+#EXTINF:-1 group-title="Autonómicos",À Punt
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90c720da6eb15228edb8bde37c13be8b:4aa47fc89cd090b3d0851c7dbd2602ee
+https://ott.zapitv.com/live/eds_c2/a_punt_hd/dash_live_enc/a_punt_hd.mpd
+
+#EXTINF:-1 group-title="Autonómicos",TPA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8541d46d6a2480c870d1f829daedbdf:cb1e2c6f447b737fe0d45e2391cc077d
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28TPA%29/manifest.mpd
+
+#EXTINF:-1 group-title="Autonómicos",ETB 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3aced22da8349f4b5948d4703cca676:8a72d01c09034c8eafb640c6bb20773a
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28ETB1%29/manifest.mpd
+
+#EXTINF:-1 group-title="Autonómicos",ETB 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=47a526d54f0340ad965d78c4b1f5c468:16cbe0ce40b4fd89236b0c356d0cfece
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28ETB2%29/manifest.mpd
+
+#EXTINF:-1 group-title="Autonómicos",ETB 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4b7be397c73d448b923bb05b216c11d5:0652269b487c47a5e0724ffbf02fa930
+http://live.euskaltel.tv/Content/DASH_MDRM/Live/Channel%28ETB3%29/manifest.mpd
+
+#EXTINF:-1 group-title="Autonómicos",ETB 4
+https://spa-ha-p003.cdn.masmediatv.es/SVoriginOperatorEdge/smil:273_premium.smil/manifest.mpd
+
+#EXTINF:-1 group-title="Autonómicos",IB3 RTV Illes Balears
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"fIBJxPfDWW6wh88ELM3PLA","k":"v63RW7PkXmXydsPposT02A"},{"kty":"oct","kid":"EfFxW8hXUj6qhhanwVESaA","k":"T06gTG0XYrjMfPgf279CIA"},{"kty":"oct","kid":"TfV2lg3NVGajzOtvAz68QA","k":"wvBbJ07nxajqpiaVtYoQMQ"}]}
+https://tvup-live.akamaized.net/ib3hd/ib3hd.mpd
+
+#EXTINF:-1 group-title="Autonómicos",8 Mediterraneo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"8PA0DNH0Vp+JcgeFbSwslA","k":"jVbYQaH/ulyKvwVJG//lgg"},{"kty":"oct","kid":"Sc8S6DHPUmqNW907SDvFtQ","k":"NoSuZljshJrpBCbVjkwb6g"},{"kty":"oct","kid":"+QVUlNSvXZO8PxDY6yG/HA","k":"WKSQayhp6gzWgfG2PNWeHw"}]}
+https://tvup-live.akamaized.net/la8mediterraneo/la8mediterraneo.mpd
+
+#EXTINF:-1 group-title="Deportes",Esport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"CzCWw41iUgyx0xuiYbG2wQ","k":"hNEfG+XUmJB4fa40kdTaAw"},{"kty":"oct","kid":"a+k8CziAU0C2JJ7mdgishg","k":"Ga4yA/Lo2PEC1GKRxfU7YQ"},{"kty":"oct","kid":"CPzbfEobUUK5qwAEYTT8mQ","k":"QuHxTzS7YQgMANnagXqbpA"}]}
+https://tvup-live.akamaized.net/esport3hdsrt/esport3hdsrt.mpd
+
+#EXTINF:-1 group-title="Fútbol" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" ,LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
