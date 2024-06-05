@@ -12,7 +12,7 @@ https://ott.zapitv.com/live/eds_c2/la_2/dash_live_enc/la_2.mpd
 
 #EXTINF:-1 group-title="Generalistas" , Antena 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=bd31650876e34b919b0d9dbcda159c9a:ad302ffddac2628ec018340b6264f473
+#KODIPROP:inputstream.adaptive.license_key=e68380f93d514a19983277e66c36c55c:068a1ffe146c9849ea6f9fc0eea39460
 https://mad02.cdn.avatel.tv/live/eds/antena3/MPEG-DASH_Scrambled_High/antena3.mpd
 
 #EXTINF:-1 group-title="Generalistas" , Cuatro
